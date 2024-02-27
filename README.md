@@ -11,52 +11,6 @@ MotionField creates a panorama out of a video and lets the user make measurement
 
 You can [download the demo video here](https://mega.nz/file/f9ERhYaQ#J7wMQrfppweOgWFkCc-vw-aCCHnT5u-d6UhH41NGYnQ), if you would like to tinker with the program. Feel free to test it on any video you would like.
 
-If you're experiencing difficulties downloading from MEGA, please try [this Google Drive link](https://drive.google.com/drive/folders/1wLxbNh44YoFdtFHFEB5kAItohY3YhkEB?usp=sharing).
-
-### Build on your machine
-
-If you prefer to clone this project and direclty run it on your machine do the following:
-
-0. If you don't already have Python on your machine, [install it here](https://www.python.org/downloads/).
-
-1. Clone the project or [simply download a zip file](https://github.com/royleibovMotionField/archive/refs/heads/master.zip)
-
-```bash
-  git clone https://github.com/royleibovMotionField.git
-```
-
-2. Go to the project directory
-
-```bash
-  cdMotionField
-```
-
-3. I would recommend you build a virtual environment in your chosen folder and activate it
-
-- **For MacOS:**
-```bash
-  python -m venv ./
-  source bin/activate
-```
-
-- **For windows:**
-```cmd
-  py -m venv ./
-  Scripts\activate.bat
-```
-
-4. Install dependencies
-
-```bash
-  pip install -r requirements.txt
-```
-
-5. Run the app fit for your operating system
-
-```bash
-  python MotionField for (Windows/MacOS).py"
-```
-
 # How does it work?
 
 Understanding the stitching pipeline can help achieve correct panoramas for almost any video input. The program is generalizable through Expert Mode, to allow different types, angles, and speeds of videos to be correctly transformed into a panorama.
