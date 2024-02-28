@@ -4,6 +4,7 @@ MotionField creates a panorama out of a video and lets the user make measurement
 # Demo
 
 ![A Demo Video](https://media.giphy.com/media/VxyFqfLxsI4srd5OSV/giphy.gif)
+Fixing Display Issue * 
 
 # Installation
 
