@@ -3,7 +3,7 @@ MotionField creates a panorama out of a video and lets the user make measurement
 
 # Demo
 
-![A Demo Video](https://media.giphy.com/media/VxyFqfLxsI4srd5OSV/giphy.gif)
+![A Demo Video]()
 
 You can [download the demo video here](https://mega.nz/file/f9ERhYaQ#J7wMQrfppweOgWFkCc-vw-aCCHnT5u-d6UhH41NGYnQ), if you would like to tinker with the program. Feel free to test it on any video you would like.
 
